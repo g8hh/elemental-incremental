@@ -223,7 +223,7 @@ var cnItems = {
     "Classic run": "经典运行",
     "Click for energy": "点击获取能量",
     "Clover Clicker": "三叶草点击器",
-    "": "",
+    "Joules.": "焦耳。",
     "": "",
     "": "",
     "": "",
