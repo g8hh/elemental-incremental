@@ -170,7 +170,7 @@ var cnItems = {
     "Make some Protium in exchange for your subatomic particles!": "制作一些 氚 来换取你的亚原子粒子！",
     "Manual save": "手动保存",
     "Millionaire": "百万富翁",
-    "More SuperSpruce stuff": "更多超级云杉的东西",
+    "More SuperSpruce stuff": "更多SuperSpruce的东西",
     "Neutrino rookie": "中微子菜鸟",
     "neutrinos.": "中微子。",
     "neutrons.": "中子。",
@@ -444,6 +444,7 @@ var cnExcludeWhole = [
     /^x([\d\.,]+)$/,
     /^([\d\.]+)e([\d\.,]+)$/,
     /^([\d\.]+)e([\d\.,]+)\-([\d\.,]+)$/,
+    /^([\d\.]+)e \-([\d\.,]+)$/,
     /^x([\d\.]+)e([\d\.,]+)$/,
     /^([\d\.]+)e([\d\.,]+)x$/,
     /^[\u4E00-\u9FA5]+$/
