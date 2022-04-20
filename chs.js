@@ -482,7 +482,7 @@ var cnRegReplace = new Map([
     [/^Cost: (.+) Protium$/, '成本：$1 氕'],
     [/^Cost: (.+) Protium,$/, '成本：$1 氕,'],
     [/^Cost: (.+) Protium, (.+) Deuterium.$/, '成本：$1 氕, $2 氘.'],
-    [/^Cost: (.+) Protium, (.+) Deuterium, (.+) energy.$/, '成本：$1 氕, $2 氘, $1 能量.'],
+    [/^Cost: (.+) Protium, (.+) Deuterium, (.+) energy.$/, '成本：$1 氕, $2 氘, $3 能量.'],
     [/^Cost: (.+) Protium.$/, '成本：$1 氕。'],
     [/^Cost: (.+) energy$/, '成本：$1 能量'],
     [/^Cost: (.+) energy,$/, '成本：$1 能量,'],
